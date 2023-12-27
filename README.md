@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hello, I'm Nikolay
 
-<!--
-**Skripkon/Skripkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate student (Computer Science) at HSE University, St. Petersburg  
 
-Here are some ideas to get you started:
+🚀 **Skills:**
+- Programming Languages: C++, Python, x86 Assembly
+- Areas of Interest: everything that sounds good!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Connect with me:**
+- tg: https://t.me/nskripko
+- email: nskripko@icloud.com 
+
+Feel free to explore my repositories and connect with me!
