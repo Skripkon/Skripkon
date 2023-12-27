@@ -4,7 +4,7 @@
 
 🚀 **Skills:**
 - Programming Languages: C++, Python, x86 Assembly
-- Areas of Interest: everything that sounds good!
+- Areas of Interest: math, music, AI-driven projects
 
 🔗 **Connect with me:**
 - tg: https://t.me/nskripko
