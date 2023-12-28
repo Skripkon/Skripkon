@@ -3,7 +3,7 @@
 🎓 Undergraduate student (Computer Science) at HSE University, St. Petersburg  
 
 🚀 **Skills:**
-- Programming Languages: C++, Python, x86 Assembly
+- Programming Languages: C++, Python, SQL, x86 Assembly
 - Areas of Interest: math, music, AI-driven projects
 
 🔗 **Connect with me:**
