@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Nikolay
 
-🎓 Undergraduate student (Computer Science) at HSE University, St. Petersburg  
+🎓 Undergraduate CS student at HSE University, St. Petersburg, Russia
 
 🚀 **Skills:**
 - Programming Languages: C++, Python, SQL, x86 Assembly
