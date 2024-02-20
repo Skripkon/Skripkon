@@ -3,7 +3,9 @@
 🎓 Undergraduate CS student at HSE University, St. Petersburg, Russia
 
 📐 Science
+
 &
+
 🕊️ self development 
 
 🔗 **Connect with me:**
