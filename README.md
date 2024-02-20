@@ -2,11 +2,8 @@
 
 🎓 Undergraduate CS student at HSE University, St. Petersburg, Russia
 
-📐 Science
 
-&
-
-🕊️ self development 
+📐 Science & self development 🕊️
 
 🔗 **Connect with me:**
 - tg: https://t.me/nskripko
