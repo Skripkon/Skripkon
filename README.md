@@ -1,6 +1,7 @@
 ### 👋 Hello, I'm Nikolay
 
 🎓 Undergraduate CS student at HSE University, St. Petersburg, Russia
+
 📐 Science & self development 🕊️
 
 ![](https://komarev.com/ghpvc/?username=Skripkon&label=PROFILE+VIEWS&color=brightgreen)
