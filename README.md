@@ -4,8 +4,6 @@
 
 📐 Science & self development 🕊️
 
-![](https://komarev.com/ghpvc/?username=Skripkon&label=PROFILE+VIEWS&color=brightgreen)
-
 
 🔗 **Connect with me:**
 
