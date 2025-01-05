@@ -1,12 +1,12 @@
-### 👋 Hello, I'm Nikolay
+### Nikolay, undergrad CS student at HSE University, St. Petersburg, Russia
 
-🎓 Undergraduate CS student at HSE University, St. Petersburg, Russia
+### 🌟 **My stats:**
 
-📐 Science & self development 🕊️
+![Github stats](https://github-readme-stats.vercel.app/api?username=skripkon&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile)
 
+### 🔗 **Connect with me:**
 
-🔗 **Connect with me:**
-
-![tg_icon](https://github.com/Skripkon/Skripkon/assets/78466953/0671720b-f843-4f34-a8ff-25de9279c5d2) https://t.me/nskripko
-
-![email_icon](https://github.com/Skripkon/Skripkon/assets/78466953/607345ce-e7a7-48a6-8e54-594bdd7076c8) nskripko@icloud.com 
+<div align="center" style="padding-bottom: 20px">
+    <a href="https://t.me/nskripko" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="Telegram" height="40" width="40" /></a>
+    <a href="nskripko@icloud.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="40" /></a>
+</div>
