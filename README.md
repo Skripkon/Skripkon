@@ -12,5 +12,5 @@
 
 <div align="left" style="padding-bottom: 20 px;">
     <a href="https://t.me/nskripko" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="Telegram" height="80" width="80" /></a>
-    <a href="nskripko@icloud.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" height="80" width="80" /></a>
+    <a href="mailto:nskripko@icloud.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" height="80" width="80" /></a>
 </div>
