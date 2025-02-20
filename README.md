@@ -8,7 +8,6 @@
     </a>
 </p>
 
-[![LeetCode](https://img.shields.io/badge/-leetcode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/kaluginpeter/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/skripko)
 
 ### 🔗 **Connect with me:**
