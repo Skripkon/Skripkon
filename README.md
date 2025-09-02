@@ -1,12 +1,12 @@
 # 👋 I'm Nikoláy Skripkó
 
-🎓 A senior student at one of Russia's top universities (HSE) and an **NLP Developer** at **Sber**, working on **GigaChat** 🤖 — Russia's **most powerful** foundational AI model.
+🎓 A senior student at one of Russia's top universities (HSE) and an **NLP Developer** at **Sberbank**, working on **GigaChat** 🤖 — Russia's **most powerful** foundational AI model.
 
 🏆 My background is rooted in a strong analytical foundation: I'm a graduate of one of Russia's best schools and a multi-year winner of the Russian National Math Olympiads.
 
 ### 🔧 Current Work & Focus
 
-At **Sber AI Lab**, I'm focused on pushing the boundaries of **LLM agentic capabilities**. My work involves:
+At **GigaChat (Sberbank)**, I'm focused on pushing the boundaries of **LLM agentic capabilities**. My work involves:
 - **⚙️ Synthetic Data Generation:** Using cutting-edge methods like **graph modeling** and **MCP servers** to create high-quality training data.
 - **👨‍💼 Large-Scale Project Management:** Leading data labeling efforts, coordinating and communicating with teams of **100+ annotators**.
 - **📊 Benchmark Design & Evaluation:** Building robust benchmarks to test and evaluate LLMs on **tool use, function calling, and agentic workflows**.
