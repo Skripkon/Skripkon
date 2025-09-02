@@ -1,6 +1,5 @@
 <p align="left">
     <a href="https://github.com/skripkon">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&width=500&height=80&lines=👨🏻‍🎓+Nikolay+Skripko;Undergrad+CS+student+at+HSE+University,+St.+Petersburg,+RU" alt="Typing SVG" />
     </a>
     <br/>
     <a href="https://github.com/skripkon">
