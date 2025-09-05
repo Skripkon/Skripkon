@@ -23,7 +23,7 @@ I work with everything trendy in the modern AI stack:
 
 ---
 
-📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/your-profile) | [Telegram](https://t.me/your_username)
+📫 **How to reach me:** [Telegram](https://t.me/nskripko)
 
 ⭐️ Feel free to explore my repositories below!
 
