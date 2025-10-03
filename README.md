@@ -1,4 +1,4 @@
-# 👋 I'm Nikoláy Skripkó
+# 👋 I'm NikolAI Skripkó
 
 🎓 A senior student at one of Russia's top universities (HSE) and an **NLP Developer** at **Sberbank**, working on **GigaChat** 🤖 — Russia's **most powerful** foundational AI model.
 
